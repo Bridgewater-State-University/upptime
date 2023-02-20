@@ -21,7 +21,18 @@ status-website:
   name: Upptime
   introTitle: "Hello BSU World!!!"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  customHeadHtml: "<p>Hello BSU World</p>"
+  customHeadHtml: | 
+    <header class="bg-white">
+        <div class="container">
+            <nav class="row navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow">
+                <div class="col-md-12">
+                    <a href="https://www.bridgew.edu" class="navbar-bsubrand">
+                        <img id="bsu-header-logo" src="https://github.com/Bridgewater-State-University/upptime/blob/master/bsu/images/logo.svg" alt="BSU Logo" />
+                    </a>
+                </div>
+            </nav>
+        </div>
+    </header>
   navbar:
     - title: Status
       href: /
