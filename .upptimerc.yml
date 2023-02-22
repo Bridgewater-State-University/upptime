@@ -27,7 +27,7 @@ status-website:
             <nav class="row navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow">
                 <div class="col-md-12">
                     <a href="https://www.bridgew.edu" class="navbar-bsubrand">
-                        <img id="bsu-header-logo" src="/upptime/assets/upptime-icon.svg" alt="Upptime Icon" />
+                        <img id="bsu-header-logo" src="https://raw.githubusercontent.com/Bridgewater-State-University/upptime/master/assets/bsu/images/bsu-red.png" alt="BSU Logo" />
                     </a>
                 </div>
             </nav>
