@@ -1,5 +1,5 @@
 # Change these first
-owner: Bridgewater State University # Your GitHub organization or username, where this repository lives
+owner: bridgewater-state-university # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -15,12 +15,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #baseUrl: /upptime
+  cname: demo.upptime.js.org
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/Bridgewater-State-University/upptime/master/assets/bsu/images/bsu-red.png
-  #cname: https://bridgewater-state-university.github.io/upptime/
   name: Upptime
   introTitle: "Hello BSU World!!!"
-  introMessage: "This status page uses **real-time** data from our GitHub repository. No server required — just GitHub Actions, Issues, and Pages."
+  introMessage: This status page uses **real-time** data from our GitHub repository. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
