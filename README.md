@@ -2,8 +2,8 @@
 
 This repository contains the open-source uptime monitor and status page for [Bridgewater State University](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/Bridgewater State University/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Bridgewater State University/upptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/Bridgewater State University/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Bridgewater State University/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Uptime CI](https://github.com/Bridgewater-State-University/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Bridgewater-State-University/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://github.com/Bridgewater-State-University/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Bridgewater-State-University/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/Bridgewater State University/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/Bridgewater State University/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/Bridgewater State University/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Bridgewater State University/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/Bridgewater State University/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/Bridgewater State University/upptime/actions?query=workflow%3A%22Summary+CI%22)
