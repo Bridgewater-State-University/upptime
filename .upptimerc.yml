@@ -21,7 +21,7 @@ status-website:
   name: Upptime
   introTitle: "Hello BSU World!!!"
   introMessage: This status page uses **real-time** data from our GitHub repository. No server required — just GitHub Actions, Issues, and Pages.
-  customHeadHtml: | 
+  customBodyHtml: | 
     <section class="bg-white">
         <div class="container">
             <nav class="row navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow">
