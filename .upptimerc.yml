@@ -3,20 +3,17 @@ owner: bridgewater-state-university # Your GitHub organization or username, wher
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BSU Public Website
+    url: https://www.bridgew.edu
+  - name: Institutional Catalog
+    url: https://catalog.bridgew.edu
 
 status-website:
   theme: light
   links:
     - rel: stylesheet
       href: https://raw.githubusercontent.com/Bridgewater-State-University/upptime/master/assets/bsu/css/bsu-brand.css
+      
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
