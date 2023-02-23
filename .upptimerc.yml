@@ -10,9 +10,7 @@ sites:
 
 status-website:
   theme: light
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/Bridgewater-State-University/upptime/master/assets/bsu/css/bsu-brand.css
+  css: "img.sveltea08hsz {max-height: 50px;}"
       
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
