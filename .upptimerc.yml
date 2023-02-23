@@ -12,7 +12,7 @@ sites:
 
 status-website:
   theme: light
-  css: "img.svelte-a08hsz{max-height:50px} .container{max-width:unset;width:80%} body{background:unset} nav{border-bottom:3px solid #89191f} div.svelte-a08hsz div {width:20%; display:inline-flex;} ul.svelte-a08hsz {width:70%; display:inline-flex; float:right; list-style-type:none;} ul.svelte-a08hsz li {padding:0px 15px} a.logo {padding-top:5px;} a.logo div {display:none}"
+  css: "img.svelte-a08hsz{max-height:50px} .container{max-width:unset;width:80%} body{background:unset} nav{border-bottom:3px solid #89191f} main{min-height:850px;} div.svelte-a08hsz div {width:20%; display:inline-flex;} ul.svelte-a08hsz {width:70%; display:inline-flex; float:right; list-style-type:none;} ul.svelte-a08hsz li {padding:0px 15px} a.logo {padding-top:5px;} a.logo div {display:none}"
       
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -20,6 +20,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/Bridgewater-State-University/upptime/master/assets/bsu/images/bsu-red.png
   name: Upptime | Bridgewater State University
+  customHeadHtml: "<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i|Roboto:400,400i,700,700i" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" type="text/css">"
   introTitle: "BSU Systems Upptime"
   introMessage: This status page uses **real-time** data collected from our GitHub repository. Using GitHub Actions, Issues, and Pages, we can automatically create API calls to critical services on campus. Upptime also supports notifications, assigning issues, and more - just visit the Config link in the page navigation above.
   navbar:
