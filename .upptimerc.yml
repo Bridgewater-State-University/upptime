@@ -14,10 +14,10 @@ status-website:
       
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://bridgewater-state-university.github.io/upptime/
+  cname: bridgewater-state-university.github.io/upptime/
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/Bridgewater-State-University/upptime/master/assets/bsu/images/bsu-red.png
-  name: Upptime
+  name: Upptime | Bridgewater State University
   introTitle: "Hello BSU World!!!"
   introMessage: This status page uses **real-time** data from our GitHub repository. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
