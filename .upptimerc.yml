@@ -7,6 +7,8 @@ sites:
     url: https://www.bridgew.edu
   - name: Institutional Catalog
     url: https://catalog.bridgew.edu
+  - name: Student Portal
+    url: https://mybsu.bridgew.edu
 
 status-website:
   theme: light
@@ -18,13 +20,15 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/Bridgewater-State-University/upptime/master/assets/bsu/images/bsu-red.png
   name: Upptime | Bridgewater State University
-  introTitle: "Hello BSU World!!!"
-  introMessage: This status page uses **real-time** data from our GitHub repository. No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "BSU Systems Upptime"
+  introMessage: This status page uses **real-time** data collected from our GitHub repository. Using GitHub Actions, Issues, and Pages, we can automatically create API calls to critical services on campus. Upptime also supports notifications, assigning issues, and more - just visit the Config link in the page navigation above.
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Config
+      href: https://upptime.js.org/docs/configuration
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
