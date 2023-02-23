@@ -10,7 +10,7 @@ sites:
 
 status-website:
   theme: light
-  css: "img.svelte-a08hsz{max-height:50px} .container{max-width:unset;width:80%} body{background:unset} nav{border-bottom:3px solid #89191f} div.svelte-a08hsz div {width:20%; display:inline-flex;} ul.svelte-a08hsz {width:70%; display:inline-flex; float:right;}"
+  css: "img.svelte-a08hsz{max-height:50px} .container{max-width:unset;width:80%} body{background:unset} nav{border-bottom:3px solid #89191f} div.svelte-a08hsz div {width:20%; display:inline-flex;} ul.svelte-a08hsz {width:70%; display:inline-flex; float:right;} a.logo div {display:none}"
       
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
