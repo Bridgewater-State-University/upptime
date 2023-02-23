@@ -22,10 +22,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://bridgewater-state-university.github.io/upptime/)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Bridgewater State University](https://demo.upptime.js.org)
+- Code: [MIT](./LICENSE) © [Bridgewater State University](https://www.bridgew.edu)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
